@@ -54,5 +54,9 @@
   },
   "dependencies": {
     "color-name": "^2.0.0"
+  },
+  "homepage": "https://github.com/Qix-/color-convert",
+  "bugs": {
+    "url": "https://github.com/Qix-/color-convert/issues"
   }
 }
